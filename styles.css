@@ -22,7 +22,7 @@ h1 {
 
 input {
     display: block;
-    width: 100%;
+    width: 90%;
     margin-bottom: 10px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -33,13 +33,13 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
-    background-color: #007bff;
+    background-color: brown;
     color: white;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: gold;
 }
 
 .error {
